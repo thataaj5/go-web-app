@@ -5,7 +5,7 @@ image:
   repository: thataa745/go-web-app
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "10101139690"
+  tag: "10101153319"
 
 
 
